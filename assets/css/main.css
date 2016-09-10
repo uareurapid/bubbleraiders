@@ -1606,9 +1606,8 @@
 		}
 
 		.wrapper.style1 {
-			background-image: url("images/bg3.png");
+			background-image: url("images/background.png");
 			background-size: 100%;
-			background-repeat: no-repeat;
 			background-color: #fff;
 		}
 
